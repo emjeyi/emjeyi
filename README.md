@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, I’m a data enthusiast with a background in Atmospheric Science and observation. I have experience in data analysis, measurement, and scientific projects through my internship at BMKG and academic laboratory work. Currently, I’m building my skills in Excel, Python, and Machine Learning, with a strong interest in applying data-driven solutions in real-world business and Atmospheric and Planetary Science-related environments.
+Hi! I’m a data enthusiast with a background in Atmospheric Science and observation. I have experience in data analysis, measurement, and scientific projects through my internship at BMKG and academic laboratory work. Currently, I’m building my skills in Excel, Python, and Machine Learning, with a strong interest in applying data-driven solutions in real-world business and Atmospheric and Planetary Science-related environments.
 
 
 ## 🌐 Socials:
